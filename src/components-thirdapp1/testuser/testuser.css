@@ -1,0 +1,14 @@
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin:0x;
+    padding: 0px;
+    min-width:100%;
+    flex-wrap: wrap;
+    list-style: none;
+   }
+   *{
+       margin: 0px;
+       padding: 0px;
+   }
